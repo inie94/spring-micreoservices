@@ -1,0 +1,5 @@
+url: jdbc:h2:mem:second
+driverClassName: org.h2.Driver
+username: sa
+password: password
+initialization-mode: always
